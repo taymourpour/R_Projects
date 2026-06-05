@@ -1,5 +1,5 @@
 # 1 - فراخوانی دیتا و تعریف در متغیر
-heart_data <- read.csv("C:/Users/Amir/OneDrive/Desktop/homeworks-projects/R/فایل جلسات/جلسه 1/Data Frames/Heart data.csv")
+heart_data <- read.csv("Heart data.csv")
 # 2 - نمایش ساختار داده‌های دیتافریم
 str(heart_data)
 # 3 - گزارش خلاصه آماری توصیفی
