@@ -1,5 +1,5 @@
 # تنظیم مسیر دایرکتوری
-setwd("C:/Users/Amir/OneDrive/Desktop/homeworks-projects/R/فایل جلسات/جلسه 2/Data Frame")
+setwd("Data Frame")
 # ایجاد دیتاست فرضی فروش محصولات با اطلاعات کامل
 set.seed(123)  # برای تکرارپذیری نتایج
 
